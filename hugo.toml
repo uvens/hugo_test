@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo-test-8f013frwe-uvens-projects-803ca52c.vercel.app/'
 languageCode = 'en-us'
 title = 'My Awesome Blog'
 theme = 'PaperMod'
