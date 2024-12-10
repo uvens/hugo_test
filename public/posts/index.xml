@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My Awesome Blog</title>
+    <link>http://localhost:54694/posts/</link>
+    <description>Recent content in Posts on My Awesome Blog</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:54694/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пример страницы с API-запросом и Authorization</title>
+      <link>http://localhost:54694/posts/strapi_test/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54694/posts/strapi_test/</guid>
+      <description>&lt;h1 id=&#34;данные-из-api&#34;&gt;Данные из API&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:54694/posts/aws/</link>
+      <pubDate>Sun, 03 Mar 2024 14:06:04 +0000</pubDate>
+      <guid>http://localhost:54694/posts/aws/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/&#34;&gt;Amazon Web Services (AWS)&lt;/a&gt; has revolutionized the world of cloud computing, providing a robust and scalable platform for businesses, startups, and developers. With a vast array of services covering computing, storage, machine learning, and more, AWS empowers organizations to build, deploy, and scale applications with ease.&lt;/p&gt;
+&lt;h2 id=&#34;key-features-of-amazon-web-services&#34;&gt;Key Features of Amazon Web Services:&lt;/h2&gt;
+&lt;h3 id=&#34;1-compute-services&#34;&gt;1. &lt;strong&gt;Compute Services:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;AWS offers a variety of compute services, including Amazon EC2 (Elastic Compute Cloud) for scalable virtual servers, AWS Lambda for serverless computing, and AWS Elastic Beanstalk for easy application deployment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>http://localhost:54694/posts/azure/</link>
+      <pubDate>Sun, 03 Mar 2024 14:05:23 +0000</pubDate>
+      <guid>http://localhost:54694/posts/azure/</guid>
+      <description>&lt;p&gt;In the ever-evolving landscape of cloud computing, &lt;a href=&#34;https://azure.microsoft.com/&#34;&gt;Microsoft Azure&lt;/a&gt; stands as a prominent and comprehensive platform, providing a vast array of services and solutions to meet the diverse needs of businesses and developers. Azure offers a robust cloud infrastructure, cutting-edge technologies, and a scalable environment, making it a go-to choice for organizations worldwide.&lt;/p&gt;
+&lt;h2 id=&#34;key-features-of-microsoft-azure&#34;&gt;Key Features of Microsoft Azure:&lt;/h2&gt;
+&lt;h3 id=&#34;1-scalability-and-flexibility&#34;&gt;1. &lt;strong&gt;Scalability and Flexibility:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Azure provides scalable solutions that can adapt to the changing demands of your business. Whether you&amp;rsquo;re a startup or an enterprise, Azure offers a flexible and agile environment to support your growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Git Version Control Made Simple</title>
+      <link>http://localhost:54694/posts/git/</link>
+      <pubDate>Sun, 03 Mar 2024 14:04:16 +0000</pubDate>
+      <guid>http://localhost:54694/posts/git/</guid>
+      <description>&lt;h2 id=&#34;introduction-to-git&#34;&gt;Introduction to Git&lt;/h2&gt;
+&lt;p&gt;In the fast-paced world of software development, effective version control is essential for collaboration, code management, and project integrity. Enter &lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;, a distributed version control system that has become the industry standard, empowering developers to work seamlessly on projects of any size.&lt;/p&gt;
+&lt;h2 id=&#34;key-concepts-of-git&#34;&gt;Key Concepts of Git&lt;/h2&gt;
+&lt;h3 id=&#34;1-distributed-version-control&#34;&gt;1. &lt;strong&gt;Distributed Version Control:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Git follows a distributed model, allowing every contributor to have a complete copy of the project&amp;rsquo;s history on their local machine. This decentralization fosters collaboration and enables developers to work offline.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Containers and Docker</title>
+      <link>http://localhost:54694/posts/containers/</link>
+      <pubDate>Sun, 03 Mar 2024 14:02:07 +0000</pubDate>
+      <guid>http://localhost:54694/posts/containers/</guid>
+      <description>&lt;p&gt;In the realm of modern software development and deployment, containerization has become a game-changer. Containers offer a lightweight, portable, and consistent way to package and run applications across various environments. Among the many containerization solutions available, Docker stands out as a leading platform, providing a powerful and user-friendly experience.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-containers&#34;&gt;What are Containers?&lt;/h2&gt;
+&lt;p&gt;Containers are a form of virtualization that encapsulates an application and its dependencies, including libraries, binaries, and configuration files. Unlike traditional virtual machines, containers share the host operating system&amp;rsquo;s kernel, making them more lightweight and efficient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demystifying Kubernetes: Orchestration for Modern Applications</title>
+      <link>http://localhost:54694/posts/kubernetes/</link>
+      <pubDate>Sun, 03 Mar 2024 14:00:37 +0000</pubDate>
+      <guid>http://localhost:54694/posts/kubernetes/</guid>
+      <description>&lt;p&gt;In the ever-evolving landscape of modern application development, scalability, resilience, and efficient management are paramount. Enter &lt;a href=&#34;https://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;, an open-source container orchestration platform that has become the cornerstone for deploying and managing containerized applications at scale.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-kubernetes&#34;&gt;What is Kubernetes?&lt;/h2&gt;
+&lt;p&gt;Kubernetes, often abbreviated as K8s, is a powerful container orchestration system that automates the deployment, scaling, and management of containerized applications. Originally developed by Google and now maintained by the Cloud Native Computing Foundation (CNCF), Kubernetes has gained widespread adoption for its ability to address the challenges of containerized environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is Cloud Native</title>
+      <link>http://localhost:54694/posts/cloud-native/</link>
+      <pubDate>Sun, 03 Mar 2024 13:59:43 +0000</pubDate>
+      <guid>http://localhost:54694/posts/cloud-native/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Cloud Native&amp;rdquo; refers to a set of principles and practices that leverage the advantages of cloud computing to build and run scalable applications. Cloud Native technologies enable organizations to develop, deploy, and operate applications more efficiently, taking full advantage of the dynamic nature of the cloud environment.&lt;/p&gt;
+&lt;h2 id=&#34;key-characteristics-of-cloud-native&#34;&gt;Key Characteristics of Cloud Native&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Microservices Architecture:&lt;/strong&gt; Cloud Native applications are often built using a microservices architecture. This approach involves breaking down a monolithic application into smaller, independently deployable services that can be developed, deployed, and scaled independently.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Hugo Static Site Generator</title>
+      <link>http://localhost:54694/posts/about-hugo/</link>
+      <pubDate>Sun, 03 Mar 2024 13:56:36 +0000</pubDate>
+      <guid>http://localhost:54694/posts/about-hugo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a popular open-source static site generator written in Go. It&amp;rsquo;s designed to be fast, simple to use, and highly flexible, making it an excellent choice for building websites of various sizes and types.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;h3 id=&#34;1-speed&#34;&gt;1. Speed&lt;/h3&gt;
+&lt;p&gt;One of Hugo&amp;rsquo;s standout features is its incredible speed. It&amp;rsquo;s built to generate static websites quickly, making it an efficient choice for developers who want to minimize build times.&lt;/p&gt;
+&lt;h3 id=&#34;2-simplicity&#34;&gt;2. Simplicity&lt;/h3&gt;
+&lt;p&gt;Hugo follows the principle of simplicity. Its straightforward directory structure and easy-to-understand templating system make it a great choice for both beginners and experienced developers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:54694/posts/hello-world/</link>
+      <pubDate>Sun, 03 Mar 2024 12:46:36 +0000</pubDate>
+      <guid>http://localhost:54694/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRiUmjs28H8dTEesT6FmOYw0gJ7VRiTioFQ&amp;amp;s&#34;
+         alt=&#34;Описание изображения&#34;/&gt; &lt;figcaption&gt;
+            Заголовок изображения
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+This is &lt;strong&gt;bold&lt;/strong&gt; test this is &lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2nd-level&#34;&gt;2nd level&lt;/h2&gt;
+&lt;h3 id=&#34;3rd-etc&#34;&gt;3rd Etc&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
