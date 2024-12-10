@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54694/</loc>
+    <loc>https://hugo-test-puce.vercel.app/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/strapi_test/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/strapi_test/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/aws/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/aws/</loc>
     <lastmod>2024-03-03T14:06:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/azure/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/azure/</loc>
     <lastmod>2024-03-03T14:05:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/git/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/git/</loc>
     <lastmod>2024-03-03T14:04:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/containers/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/containers/</loc>
     <lastmod>2024-03-03T14:02:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/kubernetes/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/kubernetes/</loc>
     <lastmod>2024-03-03T14:00:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/cloud-native/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/cloud-native/</loc>
     <lastmod>2024-03-03T13:59:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/about-hugo/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/about-hugo/</loc>
     <lastmod>2024-03-03T13:56:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/posts/hello-world/</loc>
+    <loc>https://hugo-test-puce.vercel.app/posts/hello-world/</loc>
     <lastmod>2024-03-03T12:46:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54694/categories/</loc>
+    <loc>https://hugo-test-puce.vercel.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:54694/tags/</loc>
+    <loc>https://hugo-test-puce.vercel.app/tags/</loc>
   </url>
 </urlset>
